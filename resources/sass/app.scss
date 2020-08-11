@@ -1,0 +1,20 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+@import '~admin-lte/dist/css/adminlte.css';
+
+
+
+@import url(https://fonts.googleapis.com/css?family=Lato:400,700);
+
+.router-link-exact-active {
+    color: #bd2130!important;
+    background-color: #efe8a5;
+}
+
+
